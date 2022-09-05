@@ -1,2 +1,2 @@
-# Covid_classifcation
- classification model to identify covid in pulmonary Xray. Includes streamlit presentation
+# Covid_classification
+ classification model to identify covid in pulmonary Xray. Includes streamlit presentation.
